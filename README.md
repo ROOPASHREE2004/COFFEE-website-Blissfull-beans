@@ -23,18 +23,6 @@ This project showcases a modern landing page design with smooth navigation and c
 
 ---
 
-## 📂 Project Structure
-
-```
-coffee-website/
-│── body.html
-│── style.css
-│── app.js
-│── images/
-```
-
----
-
 ## 🎯 Learning Outcome
 
 * Improved understanding of **frontend development basics**
