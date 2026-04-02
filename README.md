@@ -5,6 +5,12 @@ This project showcases a modern landing page design with smooth navigation and c
 
 ---
 
+
+## 🚀 Live Demo
+👉https://my-coffee-website-20.netlify.app
+
+---
+
 ## 🚀 Features
 
 * 🏠 Attractive landing (hero) section
@@ -20,13 +26,3 @@ This project showcases a modern landing page design with smooth navigation and c
 * **HTML5** – Structure
 * **CSS3** – Styling & layout
 * **JavaScript** – Interactivity
-
----
-
-## 🎯 Learning Outcome
-
-* Improved understanding of **frontend development basics**
-* Learned how to structure a website layout
-* Practiced styling using CSS and positioning elements
-* Gained experience working with real-world UI designs
-
